@@ -22,6 +22,12 @@ Here are the major steps of putting together your first Protei Optimist:
 4. Put together the boat
 5. Start sailing!
 
+**Getting Started**
+
+1. Buy the starter kit [here](http://scoutbots.com/products/protei-011-optimist-kit)
+2. Prepare the materials all by yourself
+3. (is there such option?) Buy the pre-built scoutbot
+
 **Don't want to buy all of the parts and laser cut them yourself? Buy the [Optimist kit from the Scoutbots' store](http://scoutbots.com/products/protei-011-optimist-kit).**
 
 ## How does the Optimist work?
